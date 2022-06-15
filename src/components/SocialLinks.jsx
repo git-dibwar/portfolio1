@@ -12,7 +12,7 @@ const SocialLinks = () => {
                     LinkedIn<FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://linkedin.com/',
+            href: 'https://www.linkedin.com/in/dibwarjeetb/',
             style: 'rounded-tr-md',
         },
         {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
                     Github<FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/',
+            href: 'https://github.com/git-dibwar',
         },
         {
             id: 3,
